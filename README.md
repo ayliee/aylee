@@ -8,7 +8,7 @@
 - I'm a **graduate**
 - I'm from **Pakistan**
 - I'm a **Designer, Web, Minecraft, and Bot Developer**
-- I'm **20 years old**
+- I'm **22 years old**
 - I co-own **AeroX** with my friend **Aegis**
 
 ## Connect with me :
