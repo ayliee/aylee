@@ -6,7 +6,10 @@
   <img src="https://komarev.com/ghpvc/?username=ayliee&color=gray&style=plastic" alt="Profile Views" />
 </p>
 
-<h2 align="center">💻 Full Stack Dev</h2>
+<h2 align="center">
+  <img src="https://cdn.discordapp.com/emojis/1529833337106202786.webp?size=32" alt="Icon" width="30" height="30" style="vertical-align: middle;" />
+  Full Stack Dev
+</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/alyfinnn">
@@ -15,5 +18,5 @@
 </p>
 
 <p align="center">
-  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web.</b>
+  <i>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web.</i>
 </p>
