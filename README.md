@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web using:</b>
+  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground webs using:</b>
 </p>
 
 <p align="center">
