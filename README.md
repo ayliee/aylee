@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://cdn.discordapp.com/emojis/1427973809969037342.webp?size=32" alt="Icon" width="30" height="30" />
+  <img src="https://cdn.discordapp.com/emojis/1427973809969037342.webp?size=32" alt="Icon" width="20" height="20" />
   Full Stack Dev
 </h2>
 
