@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://cursi.ng">
+  <a href="https://aylee.gg">
     <img src="https://lanyard.kyrie25.dev/api/544047377540186114?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
   </a>
   <br><br>
