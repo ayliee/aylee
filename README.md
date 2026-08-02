@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://aylee.gg">
-    <img src="https://lanyard.kyrie25.dev/api/544047377540186114?waveColor=fff&waveSpotifyColor=212121&gradient=fff&borderRadius=25px&bg=000" alt="Discord Status" />
-  </a>
-  <br><br>
+
   <img src="https://komarev.com/ghpvc/?username=ayliee&color=gray&style=plastic" alt="Profile Views" />
 </p>
 
