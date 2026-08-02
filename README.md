@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-  <img src="[https://cdn.discordapp.com/emojis/1446734102005813440.webp?size=32&animated=true](https://cdn.discordapp.com/emojis/1505810224219426887.webp?size=32)" alt="Icon" width="30" height="30" />
+  <img src="https://cdn.discordapp.com/emojis/1427973809969037342.webp?size=32" alt="Icon" width="30" height="30" />
   Full Stack Dev
 </h2>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground webs using:</b>
+  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web using:</b>
 </p>
 
 <p align="center">
