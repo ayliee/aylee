@@ -1,5 +1,4 @@
 <h3 align="center">
-  <img src="https://cdn.discordapp.com/emojis/1446400892780937248.webp?size=32" alt="Icon" width="24" height="24" />
   Dev / Designer
 </h3>
 
