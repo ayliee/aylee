@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Building cutting-edge tools, Discord bots, and scalable infrastructure for the underground web using:</b>
+  <b>I make webs when i feel like it, sometimes bots, or tools that I find interesting using:</b>
 </p>
 
 <p align="center">
